@@ -1,7 +1,6 @@
 # Recommender-System
 
-The developed recommender system is part of our master thesis ([download](static//thesis/thesis.pdf)). Based on the
-challenge that Data Science is an highly interdisciplinary field of research. This area combines complex methods of 
+Based on the challenge that Data Science is an highly interdisciplinary field of research. This area combines complex methods of 
 statistics, mathematics, computer science and machine learning. Nevertheless, the handling of domain-specific data
 requires comprehensive domain knowledge. The developed application tries to close the gap between data scientist and 
 domain experts. On the one hand the access to the domain specific topic is simplified for the data scientist and on
