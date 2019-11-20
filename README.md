@@ -15,6 +15,8 @@ A detailed description about all the classes, functions, interfaces and the proj
 
 You can also open the documentation by  downloading the project and navigate yourself to ``static/documentation/Documentation.html`` and open the file in your browser. Otherwise you can also use the link in the footer of the application.
 
+You can also check out the Medium article about DANs i wrote: https://medium.com/@dhoeschele/a-method-for-building-a-strong-baseline-text-classifier-53451ee6c250 
+
 
 ### Notes an pre Requirements
 
